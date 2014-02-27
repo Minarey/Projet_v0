@@ -27,6 +27,6 @@
                 resultat = e.getMessage();
             }
         %>
-        <p><%= resultat%></p>
+        <p> SALUT <%= resultat%></p>
     </body>
 </html>
