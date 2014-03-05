@@ -12,7 +12,7 @@
         <title>Résultat</title>
     </head>
     <body>
-        <h1>Votre résultat : </h1>
+        <h1>Votre SUPER résultat : </h1>
         <% 
             String resultat ="null";
             try 
