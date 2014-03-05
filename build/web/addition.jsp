@@ -12,7 +12,7 @@
         <title>Résultat</title>
     </head>
     <body>
-        <h1>Votre résultat : </h1>
+        <h1>Votre SUPERBE résultat : </h1>
         <% 
             String resultat ="null";
             try 
@@ -27,6 +27,6 @@
                 resultat = e.getMessage();
             }
         %>
-        <p><%= resultat%></p>
+        <p> SALUT <%= resultat%></p>
     </body>
 </html>
